@@ -5,6 +5,7 @@ Module 10.2 Team Git Practice Repository - Git Exercise for CSD380-M320 DevOps
 | Role  | Name |
 | ------------- | ------------- |
 | Release Manager  | Mikaela June  |
-| Developer 1  | Developer Name  |
-| Developer 2  | Developer Name  |
-| Developer 3  | Developer Name  |
+| Developer 1  | Mikaela June  |
+| Developer 2  | Mikaela June  |
+| Developer 3  | Mikaela June  |
+| Professor  | John Woods  |
